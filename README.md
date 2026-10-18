@@ -108,13 +108,12 @@ Use the [Get an API key](https://go.apimart.ai/k-7b0ec5) link — $1 minimum top
 ## Related repositories
 
 - **Same model, this language** — the other half of this pair: [viduq3-mix-prompts-ru](https://github.com/zk4whb-y/viduq3-mix-prompts-ru)
-- **Same model, other languages** — 10 more language builds: English `viduq3-mix-api` · 中文 `viduq3-mix-api-cn` · Deutsch `viduq3-mix-api-de` · Español `viduq3-mix-api-es` · Français `viduq3-mix-api-fr` · Relay/gateway `viduq3-mix-api-gateway` · Bahasa `viduq3-mix-api-id` · 日本語 `viduq3-mix-api-ja` · 한국어 `viduq3-mix-api-ko` · Português `viduq3-mix-api-pt`
+- **Same model, other languages** — 10 more language builds: English `viduq3-mix-api` · 中文 `viduq3-mix-api-cn` · Deutsch `viduq3-mix-api-de` · Español `viduq3-mix-api-es` · Français [viduq3-mix-api-fr](https://github.com/lgx-agz/viduq3-mix-api-fr) · Relay/gateway `viduq3-mix-api-gateway` · Bahasa `viduq3-mix-api-id` · 日本語 `viduq3-mix-api-ja` · 한국어 `viduq3-mix-api-ko` · Português `viduq3-mix-api-pt`
 - **More models in this language** — [midjourney-api-ru](https://github.com/sfpxvicw/midjourney-api-ru) · [gemini-2-5-flash-image-preview-api-ru](https://github.com/zwtdva8/gemini-2-5-flash-image-preview-api-ru) · [nano-banana-api-ru](https://github.com/ggpbi40ss/nano-banana-api-ru) · [gemini-3-1-flash-image-preview-api-ru](https://github.com/lu60av/gemini-3-1-flash-image-preview-api-ru) · [nano-banana-2-api-ru](https://github.com/jnp3hlry/nano-banana-2-api-ru) · [gemini-3-pro-image-preview-api-ru](https://github.com/dbxz24/gemini-3-pro-image-preview-api-ru)
 - **Topic hubs** — every build of this model, all languages: [viduq3-mix](https://github.com/topics/viduq3-mix) · [viduq3-mix-api](https://github.com/topics/viduq3-mix-api)
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
